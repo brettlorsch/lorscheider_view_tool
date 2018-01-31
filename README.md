@@ -20,8 +20,9 @@ Or install it yourself as:
     $ gem install Lorscheider_view_tool
 
 ## Usage
-
-TODO: Write usage instructions here
+'''ruby
+LorscheiderViewTool::Renderer.copyright 'Brett Lorscheider', 'All rights reserved'
+'''
 
 ## Development
 
